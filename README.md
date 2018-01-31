@@ -1,42 +1,42 @@
 # SOI
 
-##Examen de diagnostico
+## Examen de diagnostico
 
-#¿Qué es un sitema operativo?
+# ¿Qué es un sitema operativo?
 	Un sistema operativo es el programa base de una aparato electronico el cual se encarga de vincular todos los drivers (teclado, pantalla, mouse, bocinas)
 de una computadora para su maximo uso
 
-#¿Qué sistemas operativos conoces?
+# ¿Qué sistemas operativos conoces?
 	Windows, linux, solaris, MS-Dos, Androis, IOS
 
-#¿Qué diferencias entre estos sistemas operativos identificas?
+# ¿Qué diferencias entre estos sistemas operativos identificas?
 	La principal diferencia entre ellos la interfaz grafica, el unos el codigo es abierto y en otros no, unos son de celular y otros de computadora
 
-#¿Qué diferencia hay entre memoria logica y fisica?
+# ¿Qué diferencia hay entre memoria logica y fisica?
 	La memoria logica es la que se encarga de guardar el cache de los programas y se borra al momento de apagar la computadora, y la fisica es la que guarda todos
 los archivos (como USB o DD) y no importa si la maquina se apaga la memoria no borra los archivos
 
-#¿Qué tipo de sistemas de archivos conoce?
+# ¿Qué tipo de sistemas de archivos conoce?
 	FAT 32, NTFS
 
-#¿Qué es criptografia?
+# ¿Qué es criptografia?
 	La criotografia es el proceso por el cual se encriptan (ocultar con un con un codigo) archivos o mensajes
 
 
-###Temario
-##Unidad	Temas	Subtemas
-#1	Introducción a los Sistemas Operativos	
-	-Definición y concepto.
-	-Funciones y características
-	-Evolución histórica
-	-Clasificación
-	-Estructura (niveles o estratos de diseño).
-	-Núcleo
-	-Interrupciones (FLIH).
-	-Despachador (Scheduler).
-	-Primitivas de comunicación (IPC)
+### Temario
+## Unidad	Temas	Subtemas
+# 1	Introducción a los Sistemas Operativos	
+	- Definición y concepto.
+	- Funciones y características
+	- Evolución histórica
+	- Clasificación
+	- Estructura (niveles o estratos de diseño).
+	- Núcleo
+	- Interrupciones (FLIH).
+	- Despachador (Scheduler).
+	- Primitivas de comunicación (IPC)
 
-#2	Administración de procesos y del procesador	
+# 2	Administración de procesos y del procesador	
 2.1 Concepto de proceso.
 2.2 Estados y transiciones de los procesos.
 2.3 Procesos ligeros (Hilos o hebras).
@@ -56,7 +56,7 @@ los archivos (como USB o DD) y no importa si la maquina se apaga la memoria no b
        2.6.3 RR.
        2.6.4 Queves multi-level.
        2.6.5 Multi-level feedback queves.
-#3	Administración de Memoria	3.1 Política y filosofía.
+# 3	Administración de Memoria	3.1 Política y filosofía.
 3.2 Memoria real.
        3.2.1 Administración de almacenamiento.
        3.2.2 Jerarquía.
@@ -76,13 +76,13 @@ los archivos (como USB o DD) y no importa si la maquina se apaga la memoria no b
      3.4.5 Liberación de página.
      3.4.6 Tamaño de página.
 
-#4	Administración de entrada/salida
+# 4	Administración de entrada/salida
 4.1 Dispositivos y manejadores de dispositivos (device drivers).
 4.2 Mecanismos y funciones de los manejadores de dispositivos (device drivers).
 4.3 Estructuras de datos para manejo de dispositivos.
 4.4 Operaciones de entrada / salida.
 
-#5	Sistema de archivos
+# 5	Sistema de archivos
 5.1 Concepto.
 5.2 Noción de archivo real y virtual.
 5.3 Componentes de un sistema de archivos.
@@ -92,7 +92,7 @@ los archivos (como USB o DD) y no importa si la maquina se apaga la memoria no b
 5.7 Modelo jerárquico.
 5.8 Mecanismo de recuperación en caso de falla.
 
-#6	Protección y seguridad
+# 6	Protección y seguridad
 6.1 Concepto y objetivos de protección.
 6.2 Funciones del sistema de protección.
 6.3 Implantación de matrices de acceso.
