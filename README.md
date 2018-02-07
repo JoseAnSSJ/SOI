@@ -104,13 +104,13 @@ los archivos (como USB o DD) y no importa si la maquina se apaga la memoria no b
 - 6.7 Cifrado.
 _______________________________________________________________________________________________________________________________________
 
-## Descripcion de Tareas
+# Descripcion de Tareas
 
 
 Temario de la materia de Sistemas operativos I
 ________________________________________________________________________________________________________________________________________
 
-## Glosario
+# Glosario
 
 ## - RDIM
 	Registro de direccion de memoria que especifica la direccion de la memoria siguiente lectura o escritura
