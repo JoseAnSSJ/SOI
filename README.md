@@ -122,6 +122,82 @@ ________________________________________________________________________________
 	Registro de datos de memoria que contiene los datos que se van a escribir en la memoria o que recibe datos leidos de la memoria
 ________________________________________________________________________________________________________________________________________
 
+# Glosario Tarea
+
+## - Carga:
+	En informática y telecomunicaciones la carga útil? (payload en inglés) es el conjunto de datos transmitidos que es en realidad el mensaje enviado. La carga útil excluye las cabeceras o metadatos, que son enviados simplemente para facilitar la entrega del mensaje.
+
+## - Carga absoluta:
+	El proceso de carga absoluta consiste en que con la máquina vacía ó inactiva no hay necesidad de hacer relocalización de programas tan solo se puede especificar la dirección absoluta del programa que se cargue en primer lugar.
+
+## - Carga en tiempo real dinamica:
+
+## - Carga reubicable:
+
+## - Compactacion:
+	Proceso consistente en agrupar los datos de uno o varios ficheros para ahorrar espacio de almacenamiento.
+
+## - Comparticion:
+	Compartir archivos consiste en poner a disponibilidad el contenido de uno o más directorios a través de la red. Todos los sistemas de Windows cuentan con dispositivos estándar que facilitan el hecho de compartir el contenido de un directorio. No obstante, compartir archivos puede implicar problemas de seguridad ya que, por definición, brinda a los usuarios acceso al contenido de una parte del disco duro.
+
+## - Direccion fisica:
+	En la informática, una dirección física (también denominada dirección real o dirección binaria) es una dirección de memoria que se representa en forma de un número binario en la circuitería de bus de direcciones para permitir que el bus de datos acceda a una celda de almacenamiento particular de la red principal de memoria o un registro de dispositivo de E/S mapeada en memoria.
+
+## - Direccion logica:
+	Los programas de computadora utilizan direcciones de memoria para ejecutar código máquina, almacenar y recibir datos.
+
+## - Direccion relativa:
+	(relative address). Una dirección relativa es un identificador que indica la posición de una ubicación de memoria en una computadora relativa a la dirección base.
+
+## - Editor de enlaces:
+	Es el que establece la combinación de programas mencionada y también crea una imagen de carga a memoria, que resguarda en el almacenamiento secundario (disco), para usos futuros.
+
+## - Editor dinamico:
+
+## - Enlazador:
+	Es un programa que toma los objetos generados en los primeros pasos del proceso de compilación, la información de todos los recursos necesarios (biblioteca), quita aquellos recursos que no necesita, y enlaza el código objeto con su(s) biblioteca(s) con lo que finalmente produce un fichero ejecutable o una biblioteca.
+
+## - Fragmentacion externa:
+	Este tipo de fragmentación aparece como consecuencia de las distintas políticas de ajuste de bloques que tiene un sistema de ficheros, o al utilizar asignaciones dinámicas de bloques en el caso de la memoria.
+
+## - Fragmentacion interna:
+	La fragmentación interna es la pérdida de espacio en disco debido al hecho de que el tamaño de un determinado archivo sea inferior al tamaño del cluster, ya que teóricamente el archivo estaría obligado a ser referenciado como un cluster completo.
+
+## - Gestion de memoria:
+	La administración de memoria representa un vínculo delicado entre el rendimiento (tiempo de acceso) y la cantidad (espacio disponible). Siempre se busca obtener el mayor espacio disponible en la memoria.
+
+## - Marca:
+	Las marcas dicen al browser cómo formatear el texto o que partes de texto deben hacer. Por ejemplo, el par de marcas <strong>…</strong> indican al browser que debe poner el texto entre las dos marcas en negrita, la marca simple <hr> indica que se debe insertar una línea horizontal, etc.
+
+## - Organizacion logica:
+	La mayoría de las computadoras organizan los archivos en jerarquías llamadas carpetas, directorios o catálogos . (El concepto es el mismo independientemente de la terminología usada.) 
+
+## - Organizacion fisica:
+	Los datos son arreglados por su adyacencia física, es decir, de acuerdo con el dispositivo de almacenamiento secundario. Los registros son de tamaño fijo o de tamaño variable y pueden organizarse de varias formas para constituir archivos físicos. 
+
+## - Pagina:
+	En los sistemas de memoria virtual, unidad de almacenamiento de datos que se lleva a la RAM, normalmente desde un disco duro, cuando un elemento solicitado de información no se encuentra allí.
+
+## - Particionamiento:
+	La partición es el nombre que reciben las divisiones de una unidad física de almacenamiento de datos. Los sistemas operativos suelen interpretar cada partición de un disco rígido como un disco independiente, aún cuando se trate de divisiones virtuales de una misma unidad física.
+
+## - Particionamiento fisico:
+
+## - Particionamiento dinamico:
+	Ocupa una porción de la partición extendida o la totalidad de la misma, la cual se ha formateado con un tipo específico de sistema de archivos (FAT32, NTFS, ext2,...) y se le ha asignado una unidad, así el sistema operativo reconoce las particiones lógicas o su sistema de archivos.
+
+## - Proteccion:
+	Si se corren varias aplicaciones al mismo tiempo, cada una debe tener un límite de memoria para poder trabajar en ésta y tener cuidado que otra aplicación que esté corriendo al mismo tiempo no utilice una parte de la memoria de la otra, porque se produciría una mezcla de datos que nadie sabe en qué desastre puede terminar.
+
+## - Reubicacion:
+	El concepto de reubicación se utiliza en este contexto para definir el traspaso de los datos relacionados con un mismo objeto de un espacio a otro de la memoria.
+
+## - Segmentacion:
+	En los sistemas de almacenamiento virtual, la segmentación identifica las unidades lógicas de los programas y datos para facilitar el control de acceso y participación.
+
+## - Tabla de Paginas:
+________________________________________________________________________________________________________________________________________
+
 # Unidad 2
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
