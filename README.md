@@ -198,10 +198,59 @@ ________________________________________________________________________________
 ## - Tabla de Paginas:
 ________________________________________________________________________________________________________________________________________
 
-# Unidad 2
+# Glosario Unidad IV
+
+## - Asignación de fichero
+
+## - Asignación de fichero indexado
+
+## - Asignación de ficheros contigua
+
+## - Asignación de ficheros encadenada
+
+## - Base de datos: Una BD (base de datos), es una colección de datos clasificados y estructurados que son guardados en uno o varios ficheros pero referenciados como si de un único fichero se tratara. Es una recopilación de información relativa a un asunto o propósito particular, como el seguimiento de pedidos de clientes o el mantenimiento de una colección de música. Puede dividir los datos en contenedores de almacenamiento denominados tablas.
+
+## - Bloque: Unidad de información constituida por un encabezamiento y un campo de información.
+
+## - Campo: Es cada una de las columnas de la planilla donde se guarda un tipo concreto de información.
+
+## - Campo clave: Se llama así al nombre que designa a aquel campo cuyo contenido no puede aparecer en dos registros que pertenezcan a una misma tabla.
+
+## - Directorio: Contenedor para programas y archivos en interfaces gráficas de usuario, representado en la pantalla mediante una imagen gráfica (icono) de una carpeta de archivo.
+
+## - Directorio de trabajo o actual: Término utilizado a veces para describir el directorio en el que está instalado el software de un servidor web. 
+
+## - Fichero: Colección de registros de un ordenador, relacionados entre sí y tratados como una unidad.
+
+## - Fichero de acceso directo o hash: Conjunto de caracteres que identifican unívocamente a un archivo. Es un código que lo diferencia del resto.
+
+## - Fichero indexado: 
+
+## - Fichero secuencial: 
+
+## - Fichero secuencial indexado: 
+
+## - Método de acceso: 
+
+## - Nodo-i: 
+
+## - Nombre de fichero: Nombre del archivo
+
+## - Pila: Es una estructura de datos que consta de una seria de valores en el cual las inserciones y eliminaciones se hacen por un extremo llamado cima o tope. Esta estructura se conoce también como LIFO o stack (apilamiento).
+
+## - Registro: El registro (registry) es una parte fundamental del sistema operativo. Referido a cualquier sistema operativo Windows, podemos definirlo como una base de datos dinámica diseñada para recopilar información muy valiosa necesaria para la correcta ejecución tanto del sistema operativo como de las aplicaciones. Así, guarda en su interior parte de la configuración y personalización del sistema, las claves de usuario y el acceso a los diferentes recursos, al tiempo que las asociaciones de archivos con sus correspondientes programas o la configuración del hardware.
+
+## - Ruta del nombre: Direccion donde se encuentran los archivos
+
+## - Sistema de gestión de ficheros: 
+
+## - Tabla de asignación de disco: Estructura que posee la información que describe las características de las particiones implantadas en un disco duro. Este elemento, que se encuentra en el sector MBR del disco, contiene las diferentes divisiones y tipos de formato que se han realizado en el disco. De esta manera, pueden coexistir diferentes sistemas operativos sin que la organización del disco (FAT, NTFS, ext3, reiserfs, etc.) tenga que ser «compatible».
+
+## - Tabla de asignación de fichero: Las tablas de hash (HashTable) son estructuras especialmente diseñadas para acelerar las búsquedas de un elemento, indicando su clave única. La idea es que cada elemento va asociado con una clave, a la cual se le aplica una función (hash) que devuelve directamente la ubicación del elemento en la estructura. A medida que se van agregando elementos a la colección, ésta no conserva ningún orden en particular, y, además, tampoco esta diseñada para ser recorrida de ningún modo. Una tabla de hash tiene un objetivo puntual: acelerar las búsquedas.
+
+## - Tabla de bits: Una tabla de códigos es un juego de caracteres donde cada uno tiene asignado un número utilizado para su representación interna.
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
-Driagrama de "Bloque de control de procesos"
 ________________________________________________________________________________________________________________________________________
